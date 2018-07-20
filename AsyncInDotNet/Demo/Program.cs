@@ -21,7 +21,8 @@ namespace Demo
 
             //Demo(new LockDemo());
             //Demo(new SemaphoreDemo());
-            Demo(new CancellationTokenDemo());
+            //Demo(new CancellationTokenDemo());
+            Demo(new TaskSchedulerDemo());
         }
 
         private static void Demo(IDemo exampleDemo)

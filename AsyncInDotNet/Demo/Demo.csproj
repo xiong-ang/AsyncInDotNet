@@ -46,6 +46,7 @@
     <Compile Include="Others\CancellationTokenDemo.cs" />
     <Compile Include="Others\LockDemo.cs" />
     <Compile Include="Others\SemaphoreDemo.cs" />
+    <Compile Include="Others\TaskSchedulerDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Task\ParallelDemo.cs" />
